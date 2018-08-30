@@ -8,11 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/larryboymi/node-echo.git"
+    "url": "git+ssh://git@github.com:larryboymi/node-echo.git"
   },
   "author": "Larry Anderson",
-  "license": "ISC",
-  "homepage": "https://bitbucket.org/larryboymi/node-echo#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3"
