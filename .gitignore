@@ -1,0 +1,12 @@
+/.idea
+/.sonar
+/.scannerwork
+node_modules
+/public
+/.nyc_output
+/coverage
+/npm-debug.log
+.DS_Store
+/uploads
+dist
+dist.zip

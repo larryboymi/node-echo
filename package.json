@@ -1,0 +1,20 @@
+{
+  "name": "node-echo",
+  "version": "1.0.0",
+  "description": "An Express echo service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/larryboymi/node-echo.git"
+  },
+  "author": "Larry Anderson",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/larryboymi/node-echo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
